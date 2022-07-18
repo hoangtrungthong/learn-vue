@@ -120,6 +120,7 @@ button:disabled {
 
 .healthbar__value {
   position: relative;
+  transition: all 1s;
 }
 
 p {
